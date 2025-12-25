@@ -12,8 +12,10 @@ For basic customisation (Default Windows taskbar, startmenu, notification center
 > <img width="1135" height="697" alt="image" src="https://github.com/user-attachments/assets/5659230c-4bd6-4fff-aaf5-c15c4c34033a" />
 Here is a JSON files with names of Windhawk mods you will need:
 > <img width="567" height="472" alt="image" src="https://github.com/user-attachments/assets/5b4ab8cf-22e3-4122-a54e-d2a03534f3c4" />
-3. Download requared Windhawk mods
+3. Install requared Windhawk mods:
 > <img width="1783" height="1233" alt="image" src="https://github.com/user-attachments/assets/ca95139e-b6fc-4f20-a9da-4c2a4e1e10f6" />
+4. Open one of the JSON's from theme repo and copy all text:
+> <img width="3556" height="415" alt="image" src="https://github.com/user-attachments/assets/014c254e-0285-4291-8e79-ff903632274b" />
 
 
 
