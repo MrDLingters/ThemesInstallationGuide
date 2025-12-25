@@ -16,6 +16,9 @@ Here is a JSON files with names of Windhawk mods you will need:
 > <img width="1783" height="1233" alt="image" src="https://github.com/user-attachments/assets/ca95139e-b6fc-4f20-a9da-4c2a4e1e10f6" />
 4. Open one of the JSON's from theme repo and copy all text:
 > <img width="3556" height="415" alt="image" src="https://github.com/user-attachments/assets/014c254e-0285-4291-8e79-ff903632274b" />
+5. Open Windhawk mod which JSON you copied, go to "Advanced settings" clear current text and paste it here with right mouse button (Windhawk can be tricky sometimes with shortcuts):
+> <img width="1467" height="1160" alt="image" src="https://github.com/user-attachments/assets/622053e2-192a-4207-bb90-eea8a3435d91" />
+6. Click "Save" button and you are done here. Repeat this steps for other mods.
 
 
 
