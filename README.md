@@ -1,6 +1,9 @@
 # Themes installation guide
 
-[Перейти к Заголовку 1](#title1)
+[Перейти к Заголовку 1](#Windhawk)
+[Перейти к Заголовку 2](#Komorebi)
 
-## <a id="title1">Заголовок 1</a>
+## <a id="Windhawk">Windhawk</a>
 Какой-то контент
+
+## <a id="Komorebi">Komorebi</a>
