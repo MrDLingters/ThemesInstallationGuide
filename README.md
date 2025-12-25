@@ -1,1 +1,1 @@
-# ThemesInstallationGuide
+# Themes installation guide
