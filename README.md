@@ -31,6 +31,6 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 3. Install Komorebi via [Scoop](https://lgug2z.github.io/komorebi/installation.html#scoop).
-4. After installation take this part from my theme config (Komorebi folder) for appearance settings:
+4. After installation take this part from my theme config (Komorebi folder) for appearance settings and paste it in your Komorebi JSON (C:\Users\USERNAME\Komorebi.json):
 > <img width="848" height="1059" alt="image" src="https://github.com/user-attachments/assets/ee4234e7-839d-4e73-8ddd-a7c7b286f587" />
 
