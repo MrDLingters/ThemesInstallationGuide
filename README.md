@@ -82,6 +82,6 @@ winget install karlstav.cava
 3. Go to C:\Users\USERNAME\.config\cava and replace config with mine
 
 
-## <a id="Flow Launcher">FlowLauncher</a>
+## <a id="Flow Launcher">Flow Launcher</a>
 
 
