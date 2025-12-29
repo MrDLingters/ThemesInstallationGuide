@@ -70,6 +70,13 @@ winget install --id Microsoft.PowerShell --source winget
 Other way - you can just fully replace "settings.json" with my config but save your original path to your pwsh.exe (PowerShell 7 executable file) and replace my path here:
 > <img width="721" height="273" alt="image" src="https://github.com/user-attachments/assets/cd6fbf58-2010-4cba-9a3e-4fdd532639bb" />
 
-
+## <a id="Cava">Cava</a>
+1. Install Cava:
+>
+```
+winget install karlstav.cava
+```
+2. Download my config from theme repo.
+3. Go to C:\Users\USERNAME\.config\cava and replace config with mine
 
 
