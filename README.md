@@ -5,7 +5,7 @@
 3. [YASB](#YASB)
 4. [Terminal](#Terminal)
 5. [Cava](#Cava)
-6. [Flow Launcher](#FlowLauncher)
+6. [Flow Launcher](#Flow Launcher)
 
 ## <a id="Windhawk">Windhawk</a>
 For basic customisation (Default Windows taskbar, startmenu, notification center) you will need Windhawk.
