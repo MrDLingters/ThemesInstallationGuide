@@ -83,5 +83,12 @@ winget install karlstav.cava
 
 
 ## <a id="Flow_Launcher">Flow_Launcher</a>
+1. Install [Flow Launcher](https://www.flowlauncher.com/)
+2. Open theme folder from settings:
+> <img width="1907" height="2107" alt="image" src="https://github.com/user-attachments/assets/3789dce0-921d-4c8e-9fe9-e499fd98931c" />
+3. Download my theme and copy to theme folder.
+4. Pick new theme in Flow Launcher settings:
+> <img width="1911" height="998" alt="image" src="https://github.com/user-attachments/assets/59de5b68-2a68-4f82-aef8-eff4d896f9a9" />
+
 
 
