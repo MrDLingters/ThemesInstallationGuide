@@ -2,6 +2,7 @@
 
 1. [Windhawk](#Windhawk)
 2. [Komorebi](#Komorebi)
+3. [YASB](#YASB)
 
 ## <a id="Windhawk">Windhawk</a>
 For basic customisation (Default Windows taskbar, startmenu, notification center) you will need Windhawk.
@@ -34,3 +35,14 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 4. After installation take this part from my theme config (Komorebi folder) for appearance settings and paste it in your Komorebi JSON (C:\Users\USERNAME\Komorebi.json):
 > <img width="848" height="1059" alt="image" src="https://github.com/user-attachments/assets/ee4234e7-839d-4e73-8ddd-a7c7b286f587" />
 5. Additional options and settings you can find on [Komorebi Wiki](https://lgug2z.github.io/komorebi/installation.html)
+
+
+## <a id="YASB">YASB</a>
+1. Install YASB using Scoop:
+>
+```
+scoop bucket add extras
+scoop install extras/yasb
+```
+2. Download YASB theme files from my repo (YASB folder) and paste them in C:\Users\USERNAME\.config\yasb with replace.
+3. Reload YASB after replacing files if it was running.
