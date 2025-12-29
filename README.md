@@ -3,6 +3,7 @@
 1. [Windhawk](#Windhawk)
 2. [Komorebi](#Komorebi)
 3. [YASB](#YASB)
+4. [Terminal](#Terminal)
 
 ## <a id="Windhawk">Windhawk</a>
 For basic customisation (Default Windows taskbar, startmenu, notification center) you will need Windhawk.
@@ -46,3 +47,11 @@ scoop install extras/yasb
 ```
 2. Download YASB theme files from my repo (YASB folder) and paste them in C:\Users\USERNAME\.config\yasb with replace.
 3. Reload YASB after replacing files if it was running.
+
+
+## <a id="Terminal">Terminal</a>
+1. Install PowerShell 7:
+>
+```
+winget install --id Microsoft.PowerShell --source winget
+```
