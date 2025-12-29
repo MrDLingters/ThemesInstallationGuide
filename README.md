@@ -5,7 +5,7 @@
 3. [YASB](#YASB)
 4. [Terminal](#Terminal)
 5. [Cava](#Cava)
-6. [Flow Launcher](#Flow Launcher)
+6. [Flow Launcher](#Flow_Launcher)
 
 ## <a id="Windhawk">Windhawk</a>
 For basic customisation (Default Windows taskbar, startmenu, notification center) you will need Windhawk.
@@ -82,6 +82,6 @@ winget install karlstav.cava
 3. Go to C:\Users\USERNAME\.config\cava and replace config with mine
 
 
-## <a id="Flow Launcher">Flow Launcher</a>
+## <a id="Flow_Launcher">Flow Launcher</a>
 
 
