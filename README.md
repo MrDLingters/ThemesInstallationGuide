@@ -4,6 +4,7 @@
 2. [Komorebi](#Komorebi)
 3. [YASB](#YASB)
 4. [Terminal](#Terminal)
+5. [Cava](#Cava)
 
 ## <a id="Windhawk">Windhawk</a>
 For basic customisation (Default Windows taskbar, startmenu, notification center) you will need Windhawk.
