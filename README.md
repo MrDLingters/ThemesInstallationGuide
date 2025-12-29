@@ -25,5 +25,5 @@ Here is a JSON files with names of Windhawk mods you will need:
 ## <a id="Komorebi">Komorebi</a>
 1. Install [required fonts](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip) first. Extract → select all font files → right-click → Install.
 2. Install Scoop. Open a PowerShell terminal (version 5.1 or later) and from the PS C:\> prompt, run:
-`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+>`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression`
