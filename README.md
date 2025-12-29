@@ -55,3 +55,21 @@ scoop install extras/yasb
 ```
 winget install --id Microsoft.PowerShell --source winget
 ```
+2. Open PowerShell 7 -> Open settings -> Select PowerShell profile and open settings JSON:
+> <img width="1428" height="1077" alt="image" src="https://github.com/user-attachments/assets/ce1e5aff-b4c2-4820-829b-a73526f90592" />
+3. Open my "settings.json" from Github and copy colorschemes. Paste it to your PowerShell "settings.json:
+> <img width="813" height="1726" alt="image" src="https://github.com/user-attachments/assets/409ebfe1-01d4-4d65-8f5c-90071471599d" />
+4. Go to "Startup settings and set Focus mode:
+> <img width="1421" height="1068" alt="image" src="https://github.com/user-attachments/assets/95154298-fa04-4fa0-a811-dee4fed55493" />
+5. Go to your PowerShell 7 profile -> Appearance pick colorscheme and set transparency settings:
+> <img width="1422" height="1070" alt="image" src="https://github.com/user-attachments/assets/a9a6d8a4-cc20-46d5-a1aa-79baf83c0c68" />
+> <img width="1419" height="1071" alt="image" src="https://github.com/user-attachments/assets/d48d7f67-8f5e-4327-b18c-e455ff802c8d" />
+> <img width="1431" height="1080" alt="image" src="https://github.com/user-attachments/assets/54edaffd-9f2f-4276-ac19-beec72ccf5f3" />
+6. Save settings.
+
+Other way - you can just fully replace "settings.json" with my config but save your original path to your pwsh.exe (PowerShell 7 executable file) and replace my path here:
+> <img width="721" height="273" alt="image" src="https://github.com/user-attachments/assets/cd6fbf58-2010-4cba-9a3e-4fdd532639bb" />
+
+
+
+
