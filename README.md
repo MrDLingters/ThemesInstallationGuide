@@ -6,6 +6,7 @@
 4. [Terminal](#Terminal)
 5. [Cava](#Cava)
 6. [Flow Launcher](#Flow_Launcher)
+7. [Nilesoft-Shell](#Nilesoft-Shell)
 
 ## <a id="Windhawk">Windhawk</a>
 For basic customisation (Default Windows taskbar, startmenu, notification center) you will need Windhawk.
@@ -90,5 +91,7 @@ winget install karlstav.cava
 4. Pick new theme in Flow Launcher settings:
 > <img width="1911" height="998" alt="image" src="https://github.com/user-attachments/assets/59de5b68-2a68-4f82-aef8-eff4d896f9a9" />
 
+
+## <a id="Nilesoft-Shell">Nilesoft-Shell</a>
 
 
